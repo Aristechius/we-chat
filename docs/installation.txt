@@ -1,4 +1,6 @@
+###
 ### Install NodeJS
+###
 
 Reference: https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#ubuntu-mint
 
@@ -10,3 +12,7 @@ sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 sudo apt-get install python-software-properties python g++ make nodejs
 
+###
+### Install NPM (Node Packaged Modules)
+###
+sudo apt-get install npm
